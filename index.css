@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+img {
+  width: 200px;
+  height: 250px;
+  text-align: center;
+}
+
+.h11 {
+  width: 100%;
+}
+
+h1 {
+  display: inline-block;
+}
+
+.img1 {
+  width: 100%;
+  text-align: center;
+}
